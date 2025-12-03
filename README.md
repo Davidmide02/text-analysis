@@ -1,10 +1,7 @@
 # **Building and Comparing Deep Learning Architectures for SMS Spam Classification**
 
-**Author:** [Your Name]  
-**Student ID:** [Your ID]  
-**Course:** BAA1053 – Advanced Analytics Techniques  
-**Instructor:** Dr Anderson Simiscuka  
-**Date:** [Current Date]
+**Author:** [Davidmide]  
+
 
 ---
 
